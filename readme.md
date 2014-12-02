@@ -20,9 +20,9 @@ $ gem install middleman
 Clone the repo and move it to the ~/.middleman (this is where Middleman looks for templates)
 
 ```bash
-$ git clone git://github.com/austinlchang/mm-haml-heroku.git
+$ git clone git://github.com/austinlchang/middleman-haml-heroku.git
 $ mkdir ~/.middleman
-$ mv mm-haml-heroku ~/.middleman/mm-haml-heroku
+$ mv middleman-haml-heroku ~/.middleman/middleman-haml-heroku
 ```
 
 ## Getting started
@@ -30,7 +30,7 @@ $ mv mm-haml-heroku ~/.middleman/mm-haml-heroku
 To start a new Middleman project:
 
 ```bash
-$ middleman init my-project --template=mm-haml-heroku
+$ middleman init my-project --template=middleman-haml-heroku
 ```
 
 Initialize the git repo:
