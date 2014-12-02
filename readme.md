@@ -1,4 +1,4 @@
-# mm-haml-heroku
+# middleman-haml-heroku
 
 This is a Middleman HAML, SASS, production ready Heroku Boilerplate Template.
 
